@@ -34,7 +34,7 @@ Entity Framework migrasyonlarını çalıştırarak gerekli veritabanı yapılar
 Projeyi Çalıştırın:
 Visual Studio’da "Start" butonuna tıklayarak uygulamayı başlatın.
 
-##🧑‍💻 Kullanım
+## 🧑‍💻 Kullanım
 📥 Öğrenci Ekleme: Öğrenci adı, soyadı, numarası ve sınıf bilgilerini girin.
 🔄 Öğrenci Güncelleme: Öğrenci numarasını girip arama yapın ve ardından bilgileri güncelleyin.
 ❌ Öğrenci Silme: Numara girerek silme işlemi gerçekleştirin.
